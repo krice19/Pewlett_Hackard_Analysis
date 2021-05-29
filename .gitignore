@@ -1,3 +1,6 @@
+# adding files to ignore 
+queries/queries.sql
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
